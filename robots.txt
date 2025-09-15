@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxrayman.github.io/sitemap.xml

@@ -1,0 +1,23 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://maxrayman.github.io/blog/</id>
+  <title>Max Rayman</title>
+  <subtitle>Personal blog and projects of Max Rayman. Exploring open-source software development,  contributing to FOSS projects, and sharing tutorials on Linux, Python, and web technologies.</subtitle>
+  <updated>2025-09-15T15:22:49+00:00</updated>
+  <author>
+    <name>Max Rayman</name>
+    <uri>https://maxrayman.github.io/blog/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://maxrayman.github.io/blog/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://maxrayman.github.io/blog/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Max Rayman </rights>
+  <icon>/blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/blog/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+
